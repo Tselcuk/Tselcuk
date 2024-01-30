@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Tselcuk
-- 👀 I’m interested in how hardwear interacts with software
-- 🌱 I’m currently learning firmware 
 - 📫 Reach me at tolgaselcuk2408@gmail.com
 
 <!---
